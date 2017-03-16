@@ -1,7 +1,7 @@
-html {
+/*html {
   background: url("/img/main-bg.jpeg") no-repeat center center fixed;
   background-size: cover;
-}
+}*/
 
 .main-title {
   color: white;
@@ -46,8 +46,8 @@ html {
   width: 100%;
 }
 .main-wrapper {
-  /*height: 100vh;*/
-  width: 100%;
+  background: url("/img/main-bg.jpeg") no-repeat center center fixed;
+  background-size: cover;
 }
 .header {
   height: 10vh;
